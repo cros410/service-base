@@ -1,0 +1,45 @@
+{
+    "mode": "dev",
+    "prod": {
+        "db": {
+            "host": "",
+            "name": "",
+            "user": "",
+            "pwd": "",
+            "port": "",
+            "pool": ""
+        },
+        "mail": {
+            "smtp": "bancodedatospp@gmail.com",
+            "pwd": "R3masa$1"
+        }
+    },
+    "dev": {
+        "db": {
+            "host": "",
+            "name": "",
+            "user": "",
+            "pwd": "",
+            "port": "",
+            "pool": ""
+        },
+        "mail": {
+            "smtp": "servicioulimarket@gmail.com",
+            "pwd": "ulimarket2016"
+        }
+    },
+    "test": {
+        "db": {
+            "host": "",
+            "name": "",
+            "user": "",
+            "pwd": "",
+            "port": "",
+            "pool": ""
+        },
+        "mail": {
+            "smtp": "servicioulimarket@gmail.com",
+            "pwd": "ulimarket2016"
+        }
+    }
+}
