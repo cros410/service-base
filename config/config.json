@@ -11,7 +11,7 @@
         },
         "mail": {
             "smtp": "bancodedatospp@gmail.com",
-            "pwd": "R3masa$1"
+            "pwd": ""
         }
     },
     "dev": {
